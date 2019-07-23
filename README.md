@@ -24,15 +24,6 @@ Optimization frameworks for machine learning
 * <https://github.com/Tencent/PocketFlow>
   - PocketFlow, a kind of Autotuner for TF?
 
-* <https://github.com/Tiramisu-Compiler/tiramisu>
-  - Tiramisu, Polyhedral compiler
-  - Paper <https://arxiv.org/pdf/1804.10694.pdf>
-    + 2018, Tiramisu: A Code Optimization Framework for High Performance Systems
-  - Not mentioned:
-    + Autodiff
-    + Quantization
-    + Python API
-
  * <http://eyeriss.mit.edu/>
    - CNN enegry-efficient optimizations, by MIT
 
@@ -46,6 +37,15 @@ Optimization frameworks for machine learning
   - Claims that is optimized for streaming.
 
 ### Frameworks with higher-level features (e.g. auto-tuning)
+
+* <https://github.com/Tiramisu-Compiler/tiramisu>
+  - Tiramisu, Polyhedral compiler
+  - Paper <https://arxiv.org/pdf/1804.10694.pdf>
+    + 2018, Tiramisu: A Code Optimization Framework for High Performance Systems
+  - Not mentioned:
+    + Autodiff
+    + Quantization
+    + Python API
 
 * <https://github.com/google/jax>
   - Another project of Google
