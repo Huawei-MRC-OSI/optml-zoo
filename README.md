@@ -21,9 +21,6 @@ Optimization frameworks for machine learning
 * <https://github.com/xiaomi/mace>
   - 2018, MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms
 
-* <https://github.com/Tencent/PocketFlow>
-  - PocketFlow, a kind of Autotuner for TF?
-
  * <http://eyeriss.mit.edu/>
    - CNN enegry-efficient optimizations, by MIT
 
