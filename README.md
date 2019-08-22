@@ -86,4 +86,6 @@ Optimization frameworks for machine learning
   - RIP?
   - Integrated into PyTorch
   - Like TVM, has Tensor-Expression language (with auto-schedulers)
+* <https://github.com/alibaba/MNN>
+  - From Alibaba
 
