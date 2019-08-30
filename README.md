@@ -94,4 +94,6 @@ Optimization frameworks for machine learning
   - Pytorch Glow
   - TODO
   - TODO: move to low-level-features section?
+* <https://github.com/tensor-compiler/taco>
+  - TODO
   
